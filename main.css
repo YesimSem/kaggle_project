@@ -19,7 +19,7 @@ body {
 
 
 h1:hover {
-        background-color: red;
+        background-color: yellow;
       
   }
   
@@ -55,7 +55,7 @@ h1:hover {
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #04AA6D;
-  color: #008000;
+  color: black;
 }
     
 
